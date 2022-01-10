@@ -1,8 +1,8 @@
-# Lecture 1 Activity
+# Lecture 2 Activity
 
-In this lecture 1 activity, I will ask you to do several things:
+In this lecture 2 activity, I will ask you to do several things:
 
-## Activity 1A
+## Task 2A
 
 1. Copy the `activity.md` file from Lecture0-activity to this directory
 
@@ -16,7 +16,7 @@ In this lecture 1 activity, I will ask you to do several things:
 
 1. Once you're done, submit a link to this repository (not a specific commit) to Canvas.
 
-## Activity 1B - Reproduce this structure in your repository
+## Task 2B - Reproduce this structure in your repository
 
 The files should be named teh same way, but you can leave them empty if you want.
 
