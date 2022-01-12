@@ -21,7 +21,7 @@ Those same instructions are summarized here in text:
 1. Clone the assignment to your computer using (remember to use your own unique clone link):
 
 ```
-git clone https://github.com/demoFiras/lab1.git
+git clone https://github.com/demoFiras/activity1.git
 ```
 
 1. Make changes to your assignment and frequently add and commit your changes:
