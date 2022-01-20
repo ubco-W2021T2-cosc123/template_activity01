@@ -1,6 +1,7 @@
-# Lecture 1 Activity
+# Lecture Activity 2
 
-In this lecture activity, there are two tasks:
+This lab has has two tasks.
+The first task is to complete modules in a [Git tutorial](https://learngitbranching.js.org/) under the 'main' tab, and the second task is to complete the modules under the 'remote' tab.
 
 - Details of [Task1.md](Task1.md).
 - Details of [Task2.md](Task2.md).
@@ -24,7 +25,7 @@ Those same instructions are summarized here in text:
 1. Clone the assignment to your computer using (remember to use your own unique clone link):
 
 ```
-git clone https://github.com/demoFiras/activity1.git
+git clone https://github.com/demoFiras/activityXX.git
 ```
 
 1. Make changes to your assignment and frequently add and commit your changes:
