@@ -1,10 +1,9 @@
 # Lecture Activity 2
 
-This lab has has two tasks.
-The first task is to complete modules in a [Git tutorial](https://learngitbranching.js.org/) under the 'main' tab, and the second task is to complete the modules under the 'remote' tab.
+This lab has has just one task.
+The first task is to complete modules in a [Git tutorial](https://learngitbranching.js.org/) under the 'main' and 'remote' tabs.
 
 - Details of [Task1.md](Task1.md).
-- Details of [Task2.md](Task2.md).
 
 ## General Submission Instructions
 
