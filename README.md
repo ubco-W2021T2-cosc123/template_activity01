@@ -1,4 +1,4 @@
-# Lecture 1 Activity
+# Lecture Activity 1
 
 See [Task1.md](Task1.md) for details.
 
