@@ -53,7 +53,7 @@ You will need to change directory where you cloned the lab:
 1. cd `activity1-demoFiras` (substitute `demoFiras` with your username).
 1. `code .` will open VS Code in the current directory.
 
-## Task 1.5 - Use the markdown Previewer
+## Task 1.4 - Use the markdown Previewer
 
 While you practice with Markdown syntax, it is useful to see a "Preview" of what it will look like.
 Here's the effect of the preview extension you installed in VS Code:
