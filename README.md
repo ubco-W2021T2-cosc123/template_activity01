@@ -1,11 +1,8 @@
-# Lecture Activity 1
+# Lecture 1 Activity
 
-In this lecture activity, there are two tasks:
+See [Task1.md](Task1.md) for details.
 
-- Details of [Task1.md](Task1.md).
-- Details of [Task2.md](Task2.md).
-
-## General Submission Instructions
+## First-time Submission Instructions
 
 Once you are done with this assignment, **you will need to submit your repository for grading on Gradescope**.
 
